@@ -38,6 +38,8 @@ Befehle CMD(TEST): ?VERSION (Version der Gegenstation anzeigen), ?STATUS (Statio
 Wichtig! Es ist erst eine ALPHA Version und das bedeutet, es können eventuell noch Fehler im Betrieb Auftauchen ;-)
 Viel Spass beim Testen :-) Über ein Feedback würde ich mich freuen :-)
 
+#HTML #JAVASCRIPT #C++ #WASM #CB #FUNK #SQUELCH #GATEWAY #DIGIPEATER #MESSAGE #CALL #DSP #DATA-OVER-SOUND #PACKET-RADIO #MESSAGE #CALL #NACHRICHTEN #BELL #ALARM 
+
 <img width="1920" height="907" alt="Bildschirmfoto_2026-06-03_15-24-26" src="https://github.com/user-attachments/assets/bf5323b9-585c-41be-b53f-b56737db7bf2" />
 <img width="1920" height="910" alt="Bildschirmfoto_2026-06-03_15-23-55" src="https://github.com/user-attachments/assets/f460e0e9-a618-4608-ae47-d220e8fcb7fe" />
 <img width="1920" height="901" alt="Bildschirmfoto_2026-06-03_15-23-38" src="https://github.com/user-attachments/assets/173d8921-f7e3-4176-a081-559865bd16ba" />
