@@ -1,5 +1,7 @@
 # CUBE-3D-TERM
+-- Data over Sound -- 
 - ALPHA Version 15 (Test Betrieb in HTML)
+
 
   
 Das Programm ist im Aufbau! Es ist ein Kommunikationsprogramm für CB Funk. 
