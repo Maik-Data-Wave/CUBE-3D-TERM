@@ -29,17 +29,9 @@ Auswahl der Aussendung (Links neben der Payload):
 -Ping (Ein Anpingen an der Gegenstation mit Autoantwort)
 -CMD (Ein Fernsteuerungsanfrage Auslösen [NUR TEST])
 
-Befehle BBS:
--?L (Liste der Mails zu mir senden)
--R[ID] (Zeige Eindrag mit der Nummer)
--S AN BETREFF TEXT (Eine Nachricht hinterlegen auf der BBS der Gegenstation)
--D[ID] Nachricht löschen auf der Gegenstation
+Befehle BBS: ?L (Liste der Mails zu mir senden), ?R[ID] (Zeige Eindrag mit der Nummer), ?S AN BETREFF TEXT (Eine Nachricht hinterlegen auf der BBS der Gegenstation),?D[ID] Nachricht löschen auf der Gegenstation
 
-Befehle CMD(TEST):
--?VERSION (Version der Gegenstation anzeigen)
--?STATUS (Stationsname, Systemzeit der Gegenstation)
--?PING (Die Gegenstation sendet ein PONG)
--?HILFE (Die Gegenstation listet die Befehle)
+Befehle CMD(TEST): ?VERSION (Version der Gegenstation anzeigen), ?STATUS (Stationsname, Systemzeit der Gegenstation), ?PING (Die Gegenstation sendet ein PONG), ?HILFE (Die Gegenstation listet die Befehle)
 
 Wichtig! Es ist erst eine ALPHA Version und das bedeutet, es können eventuell noch Fehler im Betrieb Auftauchen ;-)
 Viel Spass beim Testen :-) Über ein Feedback würde ich mich freuen :-)
