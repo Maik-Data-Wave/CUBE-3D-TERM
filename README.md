@@ -1,5 +1,6 @@
 # CUBE-3D-TERM
-- ALPHA Version 15 (Test Betrieb)
+- ALPHA Version 15 (Test Betrieb in HTML)
+
   
 Das Programm ist im Aufbau! Es ist ein Kommunikationsprogramm für CB Funk. 
 Hier werden 3 Töne zur gleichen Zeit gesendet auf X/Y/Z Achsen und genauso dekodiert, daher CUBE 3D. Das Programm ist so ausgelegt, das die Squelch am Funkgerät offen sein muss/kann! 
